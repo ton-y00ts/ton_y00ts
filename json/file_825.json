@@ -1,0 +1,35 @@
+{
+    "name": "Sorry.826",
+    "description": "Sorry.",
+    "image": "https://ton-y00ts.github.io/ton_y00ts/images/image_825.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Antique White"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Wheat"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Wholesome"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Blue Sky Hoodie"
+        },
+        {
+            "trait_type": "Eyewear",
+            "value": "Rembrandt Goggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "1/1",
+            "value": "None"
+        }
+    ]
+}

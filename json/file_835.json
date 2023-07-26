@@ -1,0 +1,35 @@
+{
+    "name": "Sorry.836",
+    "description": "Sorry.",
+    "image": "https://ton-y00ts.github.io/ton_y00ts/images/image_835.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Snow White"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Stone"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Chill"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Windbreaker (blackout)"
+        },
+        {
+            "trait_type": "Eyewear",
+            "value": "Win-Win Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "24k Gold Shoey Guzzler"
+        },
+        {
+            "trait_type": "1/1",
+            "value": "None"
+        }
+    ]
+}

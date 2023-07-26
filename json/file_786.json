@@ -1,0 +1,35 @@
+{
+    "name": "Sorry.787",
+    "description": "Sorry.",
+    "image": "https://ton-y00ts.github.io/ton_y00ts/images/image_786.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Cannoli Cream"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Paradise Green"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Chill"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Banana Puffer"
+        },
+        {
+            "trait_type": "Eyewear",
+            "value": "Banksy Goggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Headphones"
+        },
+        {
+            "trait_type": "1/1",
+            "value": "None"
+        }
+    ]
+}

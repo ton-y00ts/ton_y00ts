@@ -1,0 +1,35 @@
+{
+    "name": "Sorry.781",
+    "description": "Sorry.",
+    "image": "https://ton-y00ts.github.io/ton_y00ts/images/image_780.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Snow White"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Sand Dollar"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Blas\u0413\u00a9"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Mechanic"
+        },
+        {
+            "trait_type": "Eyewear",
+            "value": "6d Glasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Undercut"
+        },
+        {
+            "trait_type": "1/1",
+            "value": "None"
+        }
+    ]
+}

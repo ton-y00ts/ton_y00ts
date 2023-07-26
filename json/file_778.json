@@ -1,0 +1,35 @@
+{
+    "name": "Sorry.779",
+    "description": "Sorry.",
+    "image": "https://ton-y00ts.github.io/ton_y00ts/images/image_778.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Buttercream"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Stone"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Smirk"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Banana Hazmat"
+        },
+        {
+            "trait_type": "Eyewear",
+            "value": "Abbey Roads"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Chill Hat"
+        },
+        {
+            "trait_type": "1/1",
+            "value": "None"
+        }
+    ]
+}

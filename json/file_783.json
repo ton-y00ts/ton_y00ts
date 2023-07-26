@@ -1,0 +1,35 @@
+{
+    "name": "Sorry.784",
+    "description": "Sorry.",
+    "image": "https://ton-y00ts.github.io/ton_y00ts/images/image_783.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Cannoli Cream"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Paradise Green"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Smile"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Fast Jacket"
+        },
+        {
+            "trait_type": "Eyewear",
+            "value": "Green Bricks"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Backwards Snapback"
+        },
+        {
+            "trait_type": "1/1",
+            "value": "None"
+        }
+    ]
+}

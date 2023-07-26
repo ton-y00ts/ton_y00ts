@@ -1,0 +1,35 @@
+{
+    "name": "Sorry.862",
+    "description": "Sorry.",
+    "image": "https://ton-y00ts.github.io/ton_y00ts/images/image_861.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Vanilla Ice"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Eggnog"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Chill"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Sunday Shirt"
+        },
+        {
+            "trait_type": "Eyewear",
+            "value": "Rembrandt Goggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Headphones"
+        },
+        {
+            "trait_type": "1/1",
+            "value": "None"
+        }
+    ]
+}

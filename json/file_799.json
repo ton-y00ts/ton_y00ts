@@ -1,0 +1,35 @@
+{
+    "name": "Sorry.800",
+    "description": "Sorry.",
+    "image": "https://ton-y00ts.github.io/ton_y00ts/images/image_799.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Buttercream"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Paradise Green"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Wholesome"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Classic Suit"
+        },
+        {
+            "trait_type": "Eyewear",
+            "value": "Retro Apple"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Color Block Halo"
+        },
+        {
+            "trait_type": "1/1",
+            "value": "None"
+        }
+    ]
+}
