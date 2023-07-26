@@ -1,0 +1,35 @@
+{
+    "name": "Sorry.947",
+    "description": "Sorry.",
+    "image": "https://ton-y00ts.github.io/ton_y00ts/images/image_946.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Bit Of Blue"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Tumbleweed"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Smile"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Marshmallow Puffer"
+        },
+        {
+            "trait_type": "Eyewear",
+            "value": "Mona Lisas"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Truck Trucker"
+        },
+        {
+            "trait_type": "1/1",
+            "value": "None"
+        }
+    ]
+}

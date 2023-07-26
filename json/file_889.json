@@ -1,0 +1,35 @@
+{
+    "name": "Sorry.890",
+    "description": "Sorry.",
+    "image": "https://ton-y00ts.github.io/ton_y00ts/images/image_889.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Solitary Star"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Wheat"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Smirk"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Basketball Jersey"
+        },
+        {
+            "trait_type": "Eyewear",
+            "value": "Sunflowers"
+        },
+        {
+            "trait_type": "Head",
+            "value": "McY00ts Visor"
+        },
+        {
+            "trait_type": "1/1",
+            "value": "None"
+        }
+    ]
+}

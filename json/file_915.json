@@ -1,0 +1,35 @@
+{
+    "name": "Sorry.916",
+    "description": "Sorry.",
+    "image": "https://ton-y00ts.github.io/ton_y00ts/images/image_915.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Phantom Green"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Bone"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Wholesome"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Classic Suit"
+        },
+        {
+            "trait_type": "Eyewear",
+            "value": "Tints (yellow)"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Headphones"
+        },
+        {
+            "trait_type": "1/1",
+            "value": "None"
+        }
+    ]
+}

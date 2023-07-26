@@ -1,0 +1,35 @@
+{
+    "name": "Sorry.953",
+    "description": "Sorry.",
+    "image": "https://ton-y00ts.github.io/ton_y00ts/images/image_952.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Buttercream"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Eggnog"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Blas\u0413\u00a9"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Basketball Jersey"
+        },
+        {
+            "trait_type": "Eyewear",
+            "value": "Van Goghs"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Headphones"
+        },
+        {
+            "trait_type": "1/1",
+            "value": "None"
+        }
+    ]
+}

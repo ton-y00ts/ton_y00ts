@@ -1,0 +1,35 @@
+{
+    "name": "Sorry.903",
+    "description": "Sorry.",
+    "image": "https://ton-y00ts.github.io/ton_y00ts/images/image_902.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Phantom Green"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Pink Marshmallow"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Smile"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Cherry Puffer"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Banana Beanie"
+        },
+        {
+            "trait_type": "Eyewear",
+            "value": "Mona Lisas"
+        },
+        {
+            "trait_type": "1/1",
+            "value": "None"
+        }
+    ]
+}

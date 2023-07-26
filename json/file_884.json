@@ -1,0 +1,35 @@
+{
+    "name": "Sorry.885",
+    "description": "Sorry.",
+    "image": "https://ton-y00ts.github.io/ton_y00ts/images/image_884.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Snow White"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Eggnog"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Smile"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Miracle Jersey"
+        },
+        {
+            "trait_type": "Eyewear",
+            "value": "Lensless Glasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Flame Hat"
+        },
+        {
+            "trait_type": "1/1",
+            "value": "None"
+        }
+    ]
+}

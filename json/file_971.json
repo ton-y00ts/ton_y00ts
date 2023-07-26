@@ -1,0 +1,35 @@
+{
+    "name": "Sorry.972",
+    "description": "Sorry.",
+    "image": "https://ton-y00ts.github.io/ton_y00ts/images/image_971.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Cannoli Cream"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Bone"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Chill"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Stolen Hotel Robe"
+        },
+        {
+            "trait_type": "Eyewear",
+            "value": "Banksy Goggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "McY00ts Visor"
+        },
+        {
+            "trait_type": "1/1",
+            "value": "None"
+        }
+    ]
+}

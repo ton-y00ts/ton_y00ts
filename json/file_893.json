@@ -1,0 +1,35 @@
+{
+    "name": "Sorry.894",
+    "description": "Sorry.",
+    "image": "https://ton-y00ts.github.io/ton_y00ts/images/image_893.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Antique White"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Bone"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Smirk"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Banana Hazmat"
+        },
+        {
+            "trait_type": "Eyewear",
+            "value": "Win-Win Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Skinny Headband"
+        },
+        {
+            "trait_type": "1/1",
+            "value": "None"
+        }
+    ]
+}

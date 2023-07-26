@@ -1,0 +1,35 @@
+{
+    "name": "Sorry.920",
+    "description": "Sorry.",
+    "image": "https://ton-y00ts.github.io/ton_y00ts/images/image_919.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Vanilla Ice"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Stone"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Smile"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Sunday Shirt"
+        },
+        {
+            "trait_type": "Eyewear",
+            "value": "Tints (blue)"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Free Snapback"
+        },
+        {
+            "trait_type": "1/1",
+            "value": "None"
+        }
+    ]
+}
