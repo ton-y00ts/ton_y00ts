@@ -1,0 +1,35 @@
+{
+    "name": "Sorry.1029",
+    "description": "Sorry.",
+    "image": "https://ton-y00ts.github.io/ton_y00ts/images/image_1028.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Cannoli Cream"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Tumbleweed"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Smile"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Varsity Jacket"
+        },
+        {
+            "trait_type": "Eyewear",
+            "value": "Rembrandt Goggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "1/1",
+            "value": "None"
+        }
+    ]
+}

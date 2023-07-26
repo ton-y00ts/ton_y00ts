@@ -1,0 +1,35 @@
+{
+    "name": "Sorry.1005",
+    "description": "Sorry.",
+    "image": "https://ton-y00ts.github.io/ton_y00ts/images/image_1004.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Bit Of Blue"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Pink Marshmallow"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Smile"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Marshmallow Puffer"
+        },
+        {
+            "trait_type": "Eyewear",
+            "value": "Monet Squares"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Money Bands"
+        },
+        {
+            "trait_type": "1/1",
+            "value": "None"
+        }
+    ]
+}

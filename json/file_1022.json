@@ -1,0 +1,35 @@
+{
+    "name": "Sorry.1023",
+    "description": "Sorry.",
+    "image": "https://ton-y00ts.github.io/ton_y00ts/images/image_1022.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Buttercream"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Hazel"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Blas\u0413\u00a9"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Black Tracksuit"
+        },
+        {
+            "trait_type": "Eyewear",
+            "value": "24k Gold Blocks"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Headphones"
+        },
+        {
+            "trait_type": "1/1",
+            "value": "None"
+        }
+    ]
+}

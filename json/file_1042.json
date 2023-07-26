@@ -1,0 +1,35 @@
+{
+    "name": "Sorry.1043",
+    "description": "Sorry.",
+    "image": "https://ton-y00ts.github.io/ton_y00ts/images/image_1042.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Marshmallow"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Pewter"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Smirk"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Blue Headphones"
+        },
+        {
+            "trait_type": "Eyewear",
+            "value": "Mona Lisas"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Bucket Hat"
+        },
+        {
+            "trait_type": "1/1",
+            "value": "None"
+        }
+    ]
+}

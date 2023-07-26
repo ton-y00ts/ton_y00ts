@@ -1,0 +1,35 @@
+{
+    "name": "Sorry.1007",
+    "description": "Sorry.",
+    "image": "https://ton-y00ts.github.io/ton_y00ts/images/image_1006.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Marshmallow"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Bone"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Smile"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Blob Suit"
+        },
+        {
+            "trait_type": "Eyewear",
+            "value": "6d Glasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Fuzzy Banana Bucket Hat"
+        },
+        {
+            "trait_type": "1/1",
+            "value": "None"
+        }
+    ]
+}

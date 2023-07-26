@@ -1,0 +1,35 @@
+{
+    "name": "Sorry.996",
+    "description": "Sorry.",
+    "image": "https://ton-y00ts.github.io/ton_y00ts/images/image_995.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Buttercream"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Chestnut"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Smile"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Classic Suit"
+        },
+        {
+            "trait_type": "Eyewear",
+            "value": "Van Goghs"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Big Cowboy Hat"
+        },
+        {
+            "trait_type": "1/1",
+            "value": "None"
+        }
+    ]
+}

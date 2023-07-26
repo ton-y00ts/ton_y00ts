@@ -1,0 +1,35 @@
+{
+    "name": "Sorry.1008",
+    "description": "Sorry.",
+    "image": "https://ton-y00ts.github.io/ton_y00ts/images/image_1007.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Antique White"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Tumbleweed"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Chill"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Bear Coat"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Beanie (blackout)"
+        },
+        {
+            "trait_type": "Eyewear",
+            "value": "Cali Sunset"
+        },
+        {
+            "trait_type": "1/1",
+            "value": "None"
+        }
+    ]
+}

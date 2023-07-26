@@ -1,0 +1,35 @@
+{
+    "name": "Sorry.1048",
+    "description": "Sorry.",
+    "image": "https://ton-y00ts.github.io/ton_y00ts/images/image_1047.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Snow White"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Pewter"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Chill"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Angler Vest"
+        },
+        {
+            "trait_type": "Eyewear",
+            "value": "Monet Squares"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Skull Trucker Hat"
+        },
+        {
+            "trait_type": "1/1",
+            "value": "None"
+        }
+    ]
+}
