@@ -1,0 +1,35 @@
+{
+    "name": "Sorry.1093",
+    "description": "Sorry.",
+    "image": "https://ton-y00ts.github.io/ton_y00ts/images/image_1092.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Marshmallow"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Stone"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Chill"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Cream Flannel"
+        },
+        {
+            "trait_type": "Eyewear",
+            "value": "Dieter Rams"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mullet"
+        },
+        {
+            "trait_type": "1/1",
+            "value": "None"
+        }
+    ]
+}
