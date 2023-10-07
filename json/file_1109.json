@@ -1,0 +1,39 @@
+{
+    "name": "Fox #1109",
+    "description": "Fox",
+    "image": "https://ton-y00ts.github.io/ton_y00ts/images_fox/1109.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gray"
+        },
+        {
+            "trait_type": "Breast",
+            "value": "Chain"
+        },
+        {
+            "trait_type": "Decorations",
+            "value": "Bracelet"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Vizzor"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Green hat"
+        },
+        {
+            "trait_type": "Paws",
+            "value": "None"
+        }
+    ]
+}
