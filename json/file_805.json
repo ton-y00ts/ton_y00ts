@@ -1,0 +1,39 @@
+{
+    "name": "Fox #805",
+    "description": "Fox",
+    "image": "https://ton-y00ts.github.io/ton_y00ts/images_fox/805.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Breast",
+            "value": "None"
+        },
+        {
+            "trait_type": "Decorations",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Cuteness"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Green hat"
+        },
+        {
+            "trait_type": "Paws",
+            "value": "None"
+        }
+    ]
+}

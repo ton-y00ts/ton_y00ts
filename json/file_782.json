@@ -1,0 +1,39 @@
+{
+    "name": "Fox #782",
+    "description": "Fox",
+    "image": "https://ton-y00ts.github.io/ton_y00ts/images_fox/782.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Fox"
+        },
+        {
+            "trait_type": "Breast",
+            "value": "None"
+        },
+        {
+            "trait_type": "Decorations",
+            "value": "Bracelet"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "Earring"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Regular"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Bandage"
+        },
+        {
+            "trait_type": "Paws",
+            "value": "None"
+        }
+    ]
+}
