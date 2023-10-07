@@ -1,0 +1,39 @@
+{
+    "name": "Fox #905",
+    "description": "Fox",
+    "image": "https://ton-y00ts.github.io/ton_y00ts/images_fox/905.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gray"
+        },
+        {
+            "trait_type": "Breast",
+            "value": "None"
+        },
+        {
+            "trait_type": "Decorations",
+            "value": "Bracelet"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "Earring with diamond"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Regular"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Bandage"
+        },
+        {
+            "trait_type": "Paws",
+            "value": "None"
+        }
+    ]
+}
