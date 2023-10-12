@@ -1,0 +1,47 @@
+{
+    "name": "Fox #999",
+    "description": "Chanterelles are very cunning and agile, be careful so they don\u2019t run away.",
+    "image": "https://ton-y00ts.github.io/ton_y00ts/images_foxs/999.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Breast",
+            "value": "White"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Breast Decorations",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Crybaby"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Bandage"
+        },
+        {
+            "trait_type": "Paws",
+            "value": "None"
+        },
+        {
+            "trait_type": "Suit",
+            "value": "None"
+        },
+        {
+            "trait_type": "Decorations",
+            "value": "None"
+        }
+    ]
+}
